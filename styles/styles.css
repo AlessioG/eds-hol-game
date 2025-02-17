@@ -255,7 +255,11 @@ footer .footer-logo img {
 }
 
 .footer-link-consent p, .footer-link-company p {
-  font-size: 14px;
+  font-size: 13px;
+}
+
+.footer-link-company p {
+  color: #5a5a5a;
 }
 
 

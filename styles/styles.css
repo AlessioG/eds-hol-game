@@ -248,9 +248,12 @@ main > .section:first-of-type {
   margin-top: 0;
 }
 
-footer {
-  background-color: #000;
+footer .footer-logo img {
+  max-width: 130px;
+  aspect-ratio: auto;
+  height: auto;
 }
+
 
 @media (width >= 900px) {
   main > .section > div {

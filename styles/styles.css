@@ -344,6 +344,10 @@ h1 {
   padding-bottom: 25px;
 }
 
+.footer-wrapper {
+  border-top: 1px solid #252525;
+}
+
 footer .footer-logo img {
   max-width: 130px;
   aspect-ratio: auto;

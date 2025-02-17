@@ -365,6 +365,10 @@ h1 {
   height: 500px;
 }
 
+.carousel .carousel-slide-indicators {
+  background-color: #000;
+}
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

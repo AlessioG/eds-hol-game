@@ -356,6 +356,11 @@ h1 {
   padding-bottom: 0;
 }
 
+.gallery p {
+  color: #bababa;
+  margin-top: 0;
+}
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

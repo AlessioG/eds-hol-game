@@ -260,6 +260,10 @@ main > .section:first-of-type {
   margin: 0 !important;
 }
 
+.top-hero .logo-wrapper {
+  margin-top: -40%;
+}
+
 footer .footer-logo img {
   max-width: 130px;
   aspect-ratio: auto;

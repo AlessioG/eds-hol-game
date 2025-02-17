@@ -248,6 +248,11 @@ main > .section:first-of-type {
   margin-top: 0;
 }
 
+.top-hero .video {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
 footer .footer-logo img {
   max-width: 130px;
   aspect-ratio: auto;

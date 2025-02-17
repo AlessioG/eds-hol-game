@@ -296,7 +296,9 @@ main > .section:first-of-type {
 }
 
 .qrcode p strong {
-  border-bottom: 1px solid rgba(255,27,123,.5);
+  border-bottom: 1px solid rgba(255, 27, 123, .5);
+  display: inline-block;
+  padding-bottom: 25px;
 }
 
 h1 {

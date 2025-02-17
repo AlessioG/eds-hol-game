@@ -295,6 +295,10 @@ main > .section:first-of-type {
   line-height: 1.1 !important;
 }
 
+.qrcode div {
+  gap: 0;
+}
+
 .qrcode img {
   width: 250px !important;
 }

@@ -292,7 +292,11 @@ main > .section:first-of-type {
 }
 
 .qrcode p {
-  line-height: 1.2 !important;
+  line-height: 1 !important;
+}
+
+.qrcode p strong {
+  border-bottom: 1px solid rgba(255,27,123,.5);
 }
 
 h1 {

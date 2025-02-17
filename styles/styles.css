@@ -264,6 +264,11 @@ main > .section:first-of-type {
   
 }
 
+.youtube div {
+  border: 2px solid rgba(255, 27, 123, .6);
+  box-shadow: 0 0 15px rgba(255, 27, 123, .8);
+}
+
 footer .footer-logo img {
   max-width: 130px;
   aspect-ratio: auto;

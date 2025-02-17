@@ -296,7 +296,7 @@ main > .section:first-of-type {
 }
 
 .qrcode div {
-  gap: 0;
+  gap: 0 !important;
 }
 
 .qrcode img {

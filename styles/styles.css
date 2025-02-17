@@ -254,6 +254,14 @@ footer .footer-logo img {
   height: auto;
 }
 
+.footer-link-consent {
+  margin-top: 20px;
+}
+
+.footer-link-company {
+  margin-top: 12px;
+}
+
 .footer-link-consent p, .footer-link-company p {
   font-size: 13px;
 }

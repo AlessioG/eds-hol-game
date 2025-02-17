@@ -366,7 +366,7 @@ h1 {
 }
 
 .carousel .carousel-slide-indicators {
-  background-color: #000;
+  background-color: #000 !important;
 }
 
 .footer-wrapper {

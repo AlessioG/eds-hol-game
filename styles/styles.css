@@ -295,6 +295,10 @@ main > .section:first-of-type {
   line-height: 1.1 !important;
 }
 
+.qrcode img {
+  width: 250px !important;
+}
+
 .qrcode p strong {
   border-bottom: 1px solid rgba(255, 27, 123, .5);
   display: inline-block;

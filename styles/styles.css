@@ -330,6 +330,9 @@ h1 {
   line-height: 1.2;
 }
 
+.slogan img {
+  width: 234px;
+}
 
 .qrcode p strong {
   border-bottom: 1px solid rgba(255, 27, 123, .5);

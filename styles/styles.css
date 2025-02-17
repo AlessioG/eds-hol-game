@@ -291,6 +291,10 @@ main > .section:first-of-type {
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
 }
 
+.qrcode {
+  margin-bottom: 100px;
+}
+
 .qrcode p {
   line-height: 1.1 !important;
 }
@@ -303,7 +307,18 @@ main > .section:first-of-type {
   width: 250px !important;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
+
+.slogan h1 {
+    font-size: 66px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
 
 .qrcode p strong {
   border-bottom: 1px solid rgba(255, 27, 123, .5);

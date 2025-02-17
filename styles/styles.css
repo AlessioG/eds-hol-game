@@ -291,6 +291,10 @@ main > .section:first-of-type {
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
 }
 
+.qrcode p {
+  line-height: 0 !important;
+}
+
 h1 {
   text-transform: uppercase;
   font-weight: bold;

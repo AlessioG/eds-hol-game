@@ -382,6 +382,16 @@ h1 {
   color: #FFF;
  }
 
+ .section.form-faq .form input {
+  width: 300px;
+ }
+
+ .section.form-faq .form label {
+  display: inline-block;
+ }
+
+ 
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

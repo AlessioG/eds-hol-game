@@ -377,6 +377,11 @@ h1 {
   padding: 50px;
 }
 
+ .section.form-faq .form {
+  background-color: #000;
+  color: #FFF;
+ }
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

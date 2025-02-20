@@ -388,6 +388,7 @@ h1 {
 
  .section.form-faq .form label {
   display: inline-block;
+  width: 100%;
  }
 
  

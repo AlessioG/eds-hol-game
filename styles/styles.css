@@ -391,6 +391,15 @@ h1 {
   width: 100%;
  }
 
+ .section.form-faq .button {
+  background: #ff1b7b;
+  border-radius: 4px;
+  color: #fff;
+  height: 48px;
+  line-height: 0;
+  width: 300px;
+ }
+
  
 
 .footer-wrapper {

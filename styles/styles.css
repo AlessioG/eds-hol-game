@@ -369,6 +369,14 @@ h1 {
   background-color: #000 !important;
 }
 
+.section.form-faq {
+  background: #000;
+  width: 900px;
+  border: 2px solid rgba(255, 27, 123, .6);
+  box-shadow: 0 0 15px rgba(255, 27, 123, .8);
+  padding: 50px;
+}
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

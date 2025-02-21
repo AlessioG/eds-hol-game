@@ -400,6 +400,10 @@ h1 {
   width: 300px;
  }
 
+ .accordion details {
+  border: 0; 
+ }
+
 .footer-wrapper {
   border-top: 1px solid #252525;
 }

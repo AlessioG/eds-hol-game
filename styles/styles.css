@@ -371,10 +371,10 @@ h1 {
 
 .section.form-faq {
   background: #000;
-  max-width: 900px;
+
   border: 2px solid rgba(255, 27, 123, .6);
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
-  padding: 50px;
+  padding: 10px;
 }
 
  .section.form-faq .form {
@@ -383,11 +383,6 @@ h1 {
  }
 
  .section.form-faq .form input {
-  width: 300px;
- }
-
- .section.form-faq .form label {
-  display: inline-block;
   width: 100%;
  }
 
@@ -448,6 +443,23 @@ footer .footer-logo img {
   .section.form-faq .form label {
     display: inline-block;
     width: 210px;
+   }
+
+   .section.form-faq {
+    background: #000;
+    max-width: 900px;
+    border: 2px solid rgba(255, 27, 123, .6);
+    box-shadow: 0 0 15px rgba(255, 27, 123, .8);
+    padding: 50px;
+  }
+
+  .section.form-faq .form input {
+    width: 300px;
+   }
+  
+   .section.form-faq .form label {
+    display: inline-block;
+    width: 100%;
    }
 
 }

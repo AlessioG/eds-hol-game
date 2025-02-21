@@ -404,7 +404,7 @@ h1 {
   border: 0 !important; 
  }
 
- .accordion details summary:focus, .accordion details summary:hover {
+ .accordion details summary:focus, .accordion details summary:hover, .accordion details[open] summary {
   background: #000 !important;
  }
 

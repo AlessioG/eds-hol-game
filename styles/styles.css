@@ -381,7 +381,7 @@ h1 {
  }
 
  .section.form-faq .form input {
-  width: 100%;
+  width: 90%;
  }
 
  .section.form-faq .button {
@@ -390,12 +390,12 @@ h1 {
   color: #fff;
   height: 48px;
   line-height: 0;
-  width: 190px;
+  width: 200px;
  }
 
  .section.form-faq .form label {
   display: inline-block;
-  width: 90%;
+  width: 100%;
  }
 
  .accordion details {

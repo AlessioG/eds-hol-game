@@ -401,7 +401,7 @@ h1 {
  }
 
  .accordion details {
-  border: 0; 
+  border: 0 !important; 
  }
 
 .footer-wrapper {

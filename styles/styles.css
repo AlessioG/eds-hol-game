@@ -379,7 +379,7 @@ h1 {
 }
 
 .section.form-faq, .form-faq {
-  background: #000;
+  background: #000 !important;
   border: 2px solid rgba(255, 27, 123, .6);
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
 }

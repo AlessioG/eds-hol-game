@@ -384,16 +384,16 @@ h1 {
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
 }
 
- .section.form-faq .form, .form-faq .form {
+ .section.form-faq .form, .form.form-faq {
   background-color: #000 !important;
   color: #FFF;
  }
 
- .section.form-faq .form input, .form-faq .form input {
+ .section.form-faq .form input, .form.form-faq input {
   width: 90%;
  }
 
- .section.form-faq .button, .form-faq .button {
+ .section.form-faq .button, .form.form-faq .button {
   background: #ff1b7b;
   border-radius: 4px;
   color: #fff;
@@ -402,7 +402,7 @@ h1 {
   width: 200px;
  }
 
- .section.form-faq .form label, .form-faq .form label {
+ .section.form-faq .form label, .form.form-faq label {
   display: inline-block;
   width: 100%;
  }
@@ -452,7 +452,7 @@ footer .footer-logo img {
     padding: 0 32px;
   }
 
-  .section.form-faq .form label, .form-faq .form label {
+  .section.form-faq .form label, .form.form-faqlabel {
     display: inline-block;
     width: 210px;
    }
@@ -465,11 +465,11 @@ footer .footer-logo img {
     padding: 50px;
   }
 
-  .section.form-faq .form input, .form-faq .form input  {
+  .section.form-faq .form input, .form.form-faq input  {
     width: 300px;
    }
   
-   .section.form-faq .form label, .form-faq .form label  {
+   .section.form-faq .form label, .form.form-faq label  {
     display: inline-block;
     width: 100%;
    }

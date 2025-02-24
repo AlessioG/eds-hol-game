@@ -5,7 +5,7 @@
       "id": "library",
       "title": "Library",
       "environments": [ "dev", "edit" ],
-      "url": "https://main--eds-hol--gscamurra.aem.page/tools/sidekick/library.html",
+      "url": "https://main--eds-hol-game--gscamurra.aem.page/tools/sidekick/library.json",
       "includePaths": [ "**.docx**" ]
     },
     {

@@ -378,22 +378,22 @@ h1 {
   background-color: #000 !important;
 }
 
-.section.form-faq {
+.section.form-faq, .form-faq {
   background: #000;
   border: 2px solid rgba(255, 27, 123, .6);
   box-shadow: 0 0 15px rgba(255, 27, 123, .8);
 }
 
- .section.form-faq .form {
+ .section.form-faq .form, .form-faq .form {
   background-color: #000;
   color: #FFF;
  }
 
- .section.form-faq .form input {
+ .section.form-faq .form input, .form-faq .form input {
   width: 90%;
  }
 
- .section.form-faq .button {
+ .section.form-faq .button, .form-faq .button {
   background: #ff1b7b;
   border-radius: 4px;
   color: #fff;
@@ -402,7 +402,7 @@ h1 {
   width: 200px;
  }
 
- .section.form-faq .form label {
+ .section.form-faq .form label, .section.form-faq .form label {
   display: inline-block;
   width: 100%;
  }

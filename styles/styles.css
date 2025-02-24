@@ -256,6 +256,10 @@ main > .section {
   margin: 40px 0;
 }
 
+main .form-container, section {
+  background-color: #000 !important;
+}
+
 main > .section > div {
   max-width: 900px;
   margin: auto;

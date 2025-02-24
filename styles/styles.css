@@ -385,7 +385,7 @@ h1 {
 }
 
  .section.form-faq .form, .form-faq .form {
-  background-color: #000;
+  background-color: #000 !important;
   color: #FFF;
  }
 

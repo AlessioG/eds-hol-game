@@ -270,6 +270,10 @@ main > .section:first-of-type {
   margin-top: 0;
 }
 
+.header-wrapper {
+  height: 0 !important;
+}
+
 .top-hero .video-wrapper, .video-wrapper {
   padding: 0;
   margin: 0;

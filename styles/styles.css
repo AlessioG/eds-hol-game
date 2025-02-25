@@ -276,6 +276,11 @@ main > .section:first-of-type {
   max-width: 100%;
 }
 
+.video-container {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
 .video-container .video-wrapper:first-child {
   padding: 0;
   margin: 0;

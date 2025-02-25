@@ -274,6 +274,13 @@ main > .section:first-of-type {
   height: 0 !important;
 }
 
+.logo-wrapper {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .top-hero .video-wrapper, .video-wrapper {
   padding: 0;
   margin: 0;

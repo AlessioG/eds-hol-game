@@ -307,6 +307,24 @@ main > .section:first-of-type {
   
 }
 
+.cta a {
+  background: #ff1b7b;
+  background-size: cover;
+  border-color: #ff1b7b;
+  border-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-width: 2px;
+  box-shadow: 0 4px 8px -2px rgba(0, 0, 0, .2);
+  color: #fff;
+  padding: 9px 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+} 
+
 .youtube {
   margin-bottom: 100px !important;
 }

@@ -323,7 +323,11 @@ main > .section:first-of-type {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 20px;
-} 
+}
+
+.cta a {
+  text-decoration: none;
+}
 
 .youtube {
   margin-bottom: 100px !important;

@@ -314,6 +314,8 @@ main > .section:first-of-type {
   margin: 0;
   max-width: 100%;
   margin-bottom: 100px;
+  min-width: 900px !important;
+  overflow: hidden;
 }
 
 .top-hero .video, .video {

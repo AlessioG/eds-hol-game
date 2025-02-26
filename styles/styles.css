@@ -277,7 +277,7 @@ main > .section:first-of-type {
 
 .logo-wrapper {
   position: absolute;
-  top: 5%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -285,7 +285,7 @@ main > .section:first-of-type {
 
 .cta-wrapper {
   position: absolute;
-  top: 15%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -293,7 +293,7 @@ main > .section:first-of-type {
 
 .store-wrapper {
   position: absolute;
-  top: 20%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;

@@ -448,6 +448,10 @@ h1 {
 .carousel .carousel-slide-indicators {
   background-color: #000 !important;
 }
+.carousel .carousel-slide-indicator button {
+  width: 12px !important;
+  height: 12px !important;
+}
 
 .section.form-faq, .form-faq {
   background: #000 !important;

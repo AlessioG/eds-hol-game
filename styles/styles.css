@@ -321,6 +321,10 @@ main > .section:first-of-type {
   margin: 0 !important;
 }
 
+.store img {
+  width: 150px !important;
+}
+
 .top-hero .logo-wrapper {
   
 }
@@ -542,7 +546,7 @@ footer .footer-logo img {
   }
   
   .store-wrapper {
-    top: 15%;
+    top: 80%;
     left: 50%;
   }
 

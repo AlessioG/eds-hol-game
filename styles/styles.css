@@ -274,7 +274,21 @@ main > .section:first-of-type {
   height: 0 !important;
 }
 
-.logo-wrapper, .cta-wrapper, .store-wrapper {
+.logo-wrapper {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cta-wrapper {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.store-wrapper {
   position: absolute;
   top: 20%;
   left: 50%;

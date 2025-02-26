@@ -312,6 +312,12 @@ main > .section:first-of-type {
   width: 100% !important;
 }
 
+.top-hero .video video, .video video {
+  border-bottom: 2px solid rgba(255, 27, 123, .6);
+  border-top: 2px solid rgba(255, 27, 123, .6);
+  box-shadow: 0 0 15px rgba(255, 27, 123, .8);
+}
+
 .video-container .video-wrapper:first-child {
   padding: 0;
   margin: 0;

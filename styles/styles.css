@@ -276,14 +276,14 @@ main > .section:first-of-type {
 
 .logo-wrapper {
   position: absolute;
-  top: 20%;
+  top: 5%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 .cta-wrapper {
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -293,6 +293,7 @@ main > .section:first-of-type {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
+  display: none;
 }
 
 .top-hero .video-wrapper, .video-wrapper {
@@ -526,6 +527,21 @@ footer .footer-logo img {
   .section.form-faq .form input, .form.form-faq input  {
     width: 300px;
    }
+
+   .logo-wrapper {
+    top: 20;
+    left: 50%;
+  }
+  
+  .cta-wrapper {
+    top: 40%;
+    left: 50%;
+  }
+  
+  .store-wrapper {
+    top: 15%;
+    left: 50%;
+  }
 
 
 }

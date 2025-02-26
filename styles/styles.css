@@ -397,11 +397,6 @@ h1 {
   font-size: 42px;
 }
 
-.top-hero .video video, .video video {
-  border: 2px solid rgba(255, 27, 123, .6);
-  box-shadow: 0 0 15px rgba(255, 27, 123, .8);
-}
-
 .slogan h2 {
     font-size: 66px;
     font-weight: bold;
@@ -558,8 +553,14 @@ footer .footer-logo img {
   .cta a {
     font-size: 20px;
   }
+}
 
 
+  @media (width >= 1400px) {
+    .top-hero .video video, .video video {
+      border: 2px solid rgba(255, 27, 123, .6);
+      box-shadow: 0 0 15px rgba(255, 27, 123, .8);
+    }
 }
 
 

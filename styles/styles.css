@@ -274,7 +274,7 @@ main > .section:first-of-type {
   height: 0 !important;
 }
 
-.logo-wrapper {
+.logo-wrapper, .cta-wrapper, .store-wrapper {
   position: absolute;
   top: 20%;
   left: 50%;

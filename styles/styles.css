@@ -485,20 +485,23 @@ h1 {
  }
 
  .accordion details {
-  border: 0 !important; 
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+  border-bottom: 1px solid rgba(255, 27, 123, .6) !important;
  }
 
  .accordion details summary:focus, .accordion details summary:hover, .accordion details[open] summary {
   background: #000 !important;
  }
 
- .accordion details[open] .accordion-item-body, .accordion-item {
+ .accordion details[open] .accordion-item-body {
   border-top: 0px !important;
   border-bottom: 1px solid rgba(255, 27, 123, .6)
  }
 
 .footer-wrapper {
-  border-top: 1px solid #252525;
+  border-top: 1px solid #252525; 
 }
 
 footer .footer-logo img {
